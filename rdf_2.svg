@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="982"
+   height="428"
+   overflow="hidden"
+   version="1.1"
+   id="svg333"
+   sodipodi:docname="Slide3.SVG"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata337">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     id="namedview335"
+     showgrid="false"
+     inkscape:zoom="0.66944444"
+     inkscape:cx="661.38583"
+     inkscape:cy="360"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg333" />
+  <defs
+     id="defs93">
+    <linearGradient
+       x1="480"
+       y1="170.5"
+       x2="480"
+       y2="277.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill0">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop2" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       x1="288"
+       y1="79.500099"
+       x2="288"
+       y2="141.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill1">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop9" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       x1="373"
+       y1="359.5"
+       x2="373"
+       y2="422.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill2">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop16" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop18" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       x1="861"
+       y1="214.5"
+       x2="861"
+       y2="240.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill3">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop23" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop25" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop27" />
+    </linearGradient>
+    <linearGradient
+       x1="860"
+       y1="106.5"
+       x2="860"
+       y2="163.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill4">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop30" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop32" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop34" />
+    </linearGradient>
+    <linearGradient
+       x1="596.5"
+       y1="32.500099"
+       x2="596.5"
+       y2="58.500099"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill5">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop37" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop39" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop41" />
+    </linearGradient>
+    <linearGradient
+       x1="792.5"
+       y1="43.500099"
+       x2="792.5"
+       y2="69.500099"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill6">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop44" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop46" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop48" />
+    </linearGradient>
+    <linearGradient
+       x1="108"
+       y1="40.500099"
+       x2="108"
+       y2="410.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill7">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop51" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop53" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       x1="774.5"
+       y1="319.5"
+       x2="774.5"
+       y2="350.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill8">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop58" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop60" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop62" />
+    </linearGradient>
+    <linearGradient
+       x1="501"
+       y1="391.5"
+       x2="501"
+       y2="420.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill9">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop65" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop67" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop69" />
+    </linearGradient>
+    <linearGradient
+       x1="644.5"
+       y1="374.5"
+       x2="644.5"
+       y2="405.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill10">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop72" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop74" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop76" />
+    </linearGradient>
+    <linearGradient
+       x1="473.5"
+       y1="51.500099"
+       x2="473.5"
+       y2="109.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill11">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop79" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop81" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop83" />
+    </linearGradient>
+    <linearGradient
+       x1="319.5"
+       y1="3.5000501"
+       x2="319.5"
+       y2="64.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill12">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop86" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop88" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop90" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g331">
+    <rect
+       x="0"
+       y="0"
+       width="1280"
+       height="720"
+       fill="#ffffff"
+       id="rect95" />
+    <path
+       d="m 306.5,224 c 0,-29.547 77.679,-53.5 173.5,-53.5 95.821,0 173.5,23.953 173.5,53.5 0,29.547 -77.679,53.5 -173.5,53.5 -95.821,0 -173.5,-23.953 -173.5,-53.5 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill0)"
+       fill-rule="evenodd"
+       id="path97" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(368.169,205)"
+       id="text99">http://oglobo.globo.com/sociedade/cie</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(367.422,221)"
+       id="text101">ncia/pesquisadora</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(474.922,221)"
+       id="text103">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(479.422,221)"
+       id="text105">brasileira</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(533.422,221)"
+       id="text107">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(537.922,221)"
+       id="text109">entre</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(568.089,221)"
+       id="text111">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(572.589,221)"
+       id="text113">os</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(586.589,221)"
+       id="text115">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(368.922,237)"
+       id="text117">nomes</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(408.756,237)"
+       id="text119">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(413.256,237)"
+       id="text121">de</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(427.922,237)"
+       id="text123">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(432.422,237)"
+       id="text125">maiordestaque</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(520.089,237)"
+       id="text127">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(524.589,237)"
+       id="text129">da</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(539.256,237)"
+       id="text131">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(543.756,237)"
+       id="text133">ciencia</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(585.089,237)"
+       id="text135">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(369.089,253)"
+       id="text137">em</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(387.589,253)"
+       id="text139">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(392.089,253)"
+       id="text141">2016</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(421.422,253)"
+       id="text143">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(425.922,253)"
+       id="text145">da</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(440.589,253)"
+       id="text147">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(445.089,253)"
+       id="text149">revista</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(484.256,253)"
+       id="text151">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(488.756,253)"
+       id="text153">nature</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(526.256,253)"
+       id="text155">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(530.756,253)"
+       id="text157">20670978</text>
+    <path
+       d="m 231.5,110.5 c 0,-17.1208 25.296,-30.9999 56.5,-30.9999 31.204,0 56.5,13.8791 56.5,30.9999 0,17.121 -25.296,31 -56.5,31 -31.204,0 -56.5,-13.879 -56.5,-31 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill1)"
+       fill-rule="evenodd"
+       id="path159" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(261.506,107)"
+       id="text161">ebucore:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(257.672,123)"
+       id="text163">NewsItem</text>
+    <path
+       d="m 314.5,391 c 0,-17.397 26.191,-31.5 58.5,-31.5 32.309,0 58.5,14.103 58.5,31.5 0,17.397 -26.191,31.5 -58.5,31.5 -32.309,0 -58.5,-14.103 -58.5,-31.5 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill2)"
+       fill-rule="evenodd"
+       id="path165" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(361.009,387)"
+       id="text167">dbr:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(342.089,403)"
+       id="text169">Zika_virus</text>
+    <path
+       d="m 356.839,186.996 -39.065,-42.369 0.49,-0.452 39.065,42.369 z m -40.857,-38.903 -2.482,-8.593 8.364,3.17 z"
+       fill="#4472c4"
+       id="path171" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(413.689,150)"
+       id="text173">dbo:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(439.356,150)"
+       id="text175">country</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(309.356,165)"
+       id="text177">rdf:type</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(311.522,324)"
+       id="text179">realm:PublicationZika</text>
+    <rect
+       x="812.5"
+       y="214.5"
+       width="97"
+       height="26"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill3)"
+       id="rect181" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(822.172,232)"
+       id="text183">Cesar Baima</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(684.522,219)"
+       id="text185">dcterms:creator</text>
+    <rect
+       x="742.5"
+       y="106.5"
+       width="235"
+       height="57"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill4)"
+       id="rect187" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(754.089,124)"
+       id="text189">Brazilian researcher is listed among</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(780.256,140)"
+       id="text191">the top 10 names of nature</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(807.002,156)"
+       id="text193">magazine in 2016</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(664.856,168)"
+       id="text195">dcterms:title</text>
+    <path
+       d="M 0.196881,-0.268978 91.8172,66.7933 91.4234,67.3313 -0.196881,0.268978 Z M 92.9071,63.0471 97,71 88.182,69.5026 Z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,643.5,206.5)"
+       id="path197" />
+    <rect
+       x="532.5"
+       y="32.500099"
+       width="128"
+       height="26"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill5)"
+       id="rect199" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(543.506,50)"
+       id="text201">oglobo.globo.com</text>
+    <path
+       d="M 0.326424,-0.0675167 23.1761,110.404 22.5232,110.539 -0.326424,0.0675167 Z M 26.4967,108.356 24.2,117 18.6625,109.976 Z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,555.5,175.5)"
+       id="path203" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(509.856,152)"
+       id="text205">foaf:homepage</text>
+    <rect
+       x="683.5"
+       y="43.500099"
+       width="218"
+       height="26"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill6)"
+       id="rect207" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(694.922,61)"
+       id="text209">2016</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(724.256,61)"
+       id="text211">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(728.756,61)"
+       id="text213">12</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(743.422,61)"
+       id="text215">-</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(747.922,61)"
+       id="text217">19T20:44:58.167+02:00</text>
+    <path
+       d="M 0.248833,-0.221795 97.9632,109.405 97.4655,109.848 -0.248833,0.221795 Z M 99.8133,105.97 l 2.3367,8.633 -8.3087,-3.31 z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,602.5,187.103)"
+       id="path219" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(604.022,132)"
+       id="text221">dcterms:date</text>
+    <rect
+       x="6.5000501"
+       y="40.500099"
+       width="203"
+       height="370"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill7)"
+       id="rect223" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(21.4258,70)"
+       id="text225">The magazine Nature, one of</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(25.5058,86)"
+       id="text227">the world's most prestigious</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(43.0058,102)"
+       id="text229">scientific publications,</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(19.6724,118)"
+       id="text231">announced today its list of the</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(28.7591,134)"
+       id="text233">top 10 names in science in</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(17.5058,150)"
+       id="text235">2016. Among the chosen ones</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(24.8391,166)"
+       id="text237">is the Brazilian Celina Maria</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(36.5924,182)"
+       id="text239">Turchi</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(77.2591,182)"
+       id="text241">Martelli. A retired</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(36.8391,198)"
+       id="text243">professor at the Federal</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(33.0924,214)"
+       id="text245">University of Goiás and a</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(34.9258,230)"
+       id="text247">visiting researcher at the</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(23.5924,246)"
+       id="text249">Aggeu</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(65.4258,246)"
+       id="text251">Magalhães</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(133.926,246)"
+       id="text253">Research</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(38.1724,262)"
+       id="text255">Center (CPQAM) of the</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(30.5058,278)"
+       id="text257">Oswaldo Cruz Foundation</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(32.5924,294)"
+       id="text259">(</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(37.0924,294)"
+       id="text261">Fiocruz</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(80.7591,294)"
+       id="text263">) in Pernambuco,</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(16.6724,310)"
+       id="text265">Celina leads the group that, for</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(31.8391,326)"
+       id="text267">the first time, scientifically</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(34.1724,342)"
+       id="text269">associated the Zika virus</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(24.3391,358)"
+       id="text271">infection in pregnant women</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(29.0058,374)"
+       id="text273">and microcephaly cases in</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(76.5924,390)"
+       id="text275">newborns.</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(232.689,216)"
+       id="text277">shema:text</text>
+    <rect
+       x="730.5"
+       y="319.5"
+       width="88"
+       height="31"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill8)"
+       id="rect279" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(753.256,340)"
+       id="text281">english</text>
+    <path
+       d="m 642.691,242.227 100.868,70.449 -0.382,0.547 -100.868,-70.45 z m 101.874,66.68 4.268,7.86 -8.849,-1.302 z"
+       fill="#4472c4"
+       id="path283" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(649.189,274)"
+       id="text285">dcterms:language</text>
+    <rect
+       x="480.5"
+       y="391.5"
+       width="41"
+       height="29"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill9)"
+       id="rect287" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(497.256,410)"
+       id="text289">0</text>
+    <rect
+       x="621.5"
+       y="374.5"
+       width="46"
+       height="31"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill10)"
+       id="rect291" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(633.172,394)"
+       id="text293">769</text>
+    <path
+       d="m 495.833,275.482 5.999,108.643 -0.666,0.037 -5.999,-108.644 z m 9.587,107.11 -3.553,8.208 -4.435,-7.767 z"
+       fill="#4472c4"
+       id="path295" />
+    <path
+       d="m 586.794,266.342 54.597,101.726 -0.587,0.316 -54.598,-101.726 z m 57.197,98.818 0.259,8.94 -7.308,-5.157 z"
+       fill="#4472c4"
+       id="path297" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(458.356,343)"
+       id="text299">realm:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(495.356,343)"
+       id="text301">gplusCount</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(567.689,309)"
+       id="text303">realm:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(604.689,309)"
+       id="text305">facebookCount</text>
+    <path
+       d="M 0.329198,-0.0523442 13.349,81.8303 12.6906,81.935 -0.329198,0.0523442 Z M 16.7608,79.9378 14.0667,88.4667 8.86003,81.194 Z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,377.5,358.967)"
+       id="path307" />
+    <path
+       d="M 0.332349,-0.0255931 4.55382,54.7941 3.88913,54.8453 -0.332349,0.0255931 Z M 8.10729,53.1832 4.73333,61.4667 0.130907,53.7974 Z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,469.5,169.967)"
+       id="path309" />
+    <path
+       d="M 3.53729e-7,-0.333333 92.2667,-0.333235 V 0.333431 L -3.53729e-7,0.333333 Z M 90.9333,-3.9999 l 8,4.000004987 -8,3.999995013 z"
+       fill="#4472c4"
+       transform="matrix(-1,0,0,1,308.433,223.5)"
+       id="path311" />
+    <path
+       d="m 651.5,224.167 h 152.733 v 0.666 H 651.5 Z m 151.4,-3.667 8,4 -8,4 z"
+       fill="#4472c4"
+       id="path313" />
+    <path
+       d="m 425.5,80.5001 c 0,-16.0163 21.49,-29 48,-29 26.51,0 48,12.9837 48,29 0,16.0162 -21.49,28.9999 -48,28.9999 -26.51,0 -48,-12.9837 -48,-28.9999 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill11)"
+       fill-rule="evenodd"
+       id="path315" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(461.842,77)"
+       id="text317">dbr:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(456.589,93)"
+       id="text319">Brazil</text>
+    <path
+       d="m 271.5,34.0001 c 0,-16.8447 21.49,-30.50005 48,-30.50005 26.51,0 48,13.65535 48,30.50005 0,16.8446 -21.49,30.5 -48,30.5 -26.51,0 -48,-13.6554 -48,-30.5 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill12)"
+       fill-rule="evenodd"
+       id="path321" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(306.419,31)"
+       id="text323">dbo:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(296.006,47)"
+       id="text325">Country</text>
+    <path
+       d="m 428.702,67.4732 -56.204,-24.0445 0.262,-0.6129 56.204,24.0445 z m -56.42,-20.1489 -5.782,-6.8242 8.929,-0.531 z"
+       fill="#4472c4"
+       id="path327" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(368.189,60)"
+       id="text329">rdf:type</text>
+  </g>
+</svg>

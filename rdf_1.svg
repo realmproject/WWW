@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="610"
+   height="412"
+   overflow="hidden"
+   version="1.1"
+   id="svg247"
+   sodipodi:docname="Slide1.SVG"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata251">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     id="namedview249"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:zoom="0.66944444"
+     inkscape:cx="409.80387"
+     inkscape:cy="240.49793"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg247" />
+  <defs
+     id="defs107">
+    <linearGradient
+       x1="63.000099"
+       y1="152.5"
+       x2="63.000099"
+       y2="215.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill0">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop2" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       x1="271"
+       y1="347.5"
+       x2="271"
+       y2="409.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill1">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop9" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       x1="557"
+       y1="123.5"
+       x2="557"
+       y2="148.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill2">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop16" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop18" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       x1="490"
+       y1="85.500099"
+       x2="490"
+       y2="108.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill3">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop23" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop25" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop27" />
+    </linearGradient>
+    <linearGradient
+       x1="564"
+       y1="255.5"
+       x2="564"
+       y2="281.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill4">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop30" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop32" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop34" />
+    </linearGradient>
+    <linearGradient
+       x1="316.5"
+       y1="192.5"
+       x2="316.5"
+       y2="235.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill5">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop37" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop39" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop41" />
+    </linearGradient>
+    <linearGradient
+       x1="400"
+       y1="55.500099"
+       x2="400"
+       y2="79.500099"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill6">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop44" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop46" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop48" />
+    </linearGradient>
+    <linearGradient
+       x1="209.5"
+       y1="298.5"
+       x2="209.5"
+       y2="322.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill7">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop51" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop53" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       x1="98.000099"
+       y1="247.5"
+       x2="98.000099"
+       y2="309.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill8">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop58" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop60" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop62" />
+    </linearGradient>
+    <linearGradient
+       x1="567"
+       y1="182.5"
+       x2="567"
+       y2="209.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill9">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop65" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop67" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop69" />
+    </linearGradient>
+    <linearGradient
+       x1="403"
+       y1="331.5"
+       x2="403"
+       y2="360.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill10">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop72" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop74" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop76" />
+    </linearGradient>
+    <linearGradient
+       x1="473.5"
+       y1="266.5"
+       x2="473.5"
+       y2="295.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill11">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop79" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop81" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop83" />
+    </linearGradient>
+    <linearGradient
+       x1="134.5"
+       y1="68.500099"
+       x2="134.5"
+       y2="133.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill12">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop86" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop88" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop90" />
+    </linearGradient>
+    <linearGradient
+       x1="313.5"
+       y1="75.500099"
+       x2="313.5"
+       y2="112.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill13">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop93" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop95" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop97" />
+    </linearGradient>
+    <linearGradient
+       x1="218.5"
+       y1="2.5000501"
+       x2="218.5"
+       y2="63.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill14">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop100" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop102" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop104" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g245">
+    <rect
+       x="0"
+       y="0"
+       width="1280"
+       height="720"
+       fill="#ffffff"
+       id="rect109" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(351.36,249)"
+       id="text111">realm:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(388.36,249)"
+       id="text113">gplusCount</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(133.36,155)"
+       id="text115">realm:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(170.36,155)"
+       id="text117">PublicationDengue</text>
+    <path
+       d="m 4.50005,184 c 0,-17.397 26.19135,-31.5 58.49995,-31.5 32.3087,0 58.5,14.103 58.5,31.5 0,17.397 -26.1913,31.5 -58.5,31.5 C 30.6914,215.5 4.50005,201.397 4.50005,184 Z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill0)"
+       fill-rule="evenodd"
+       id="path119" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(50.8465,181)"
+       id="text121">dbr:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(31.9265,197)"
+       id="text123">Zika_virus</text>
+    <path
+       d="m 214.5,378.5 c 0,-17.121 25.296,-31 56.5,-31 31.204,0 56.5,13.879 56.5,31 0,17.121 -25.296,31 -56.5,31 -31.204,0 -56.5,-13.879 -56.5,-31 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill1)"
+       fill-rule="evenodd"
+       id="path125" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(244.343,375)"
+       id="text127">ebucore:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(240.51,391)"
+       id="text129">NewsItem</text>
+    <path
+       d="M 0.314932,-0.10922 36.6723,104.726 36.0424,104.944 -0.314932,0.10922 Z M 39.6996,102.264 l -1.1579,8.869 -6.4004,-6.247 z"
+       fill="#4472c4"
+       transform="matrix(-1,0,0,1,316.042,235.5)"
+       id="path131" />
+    <path
+       d="m 188.691,122.227 99.158,69.056 -0.381,0.547 -99.158,-69.056 z m 100.159,65.285 4.279,7.855 -8.851,-1.29 z"
+       fill="#4472c4"
+       id="path133" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(271.86,141)"
+       id="text135">dbo:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(297.527,141)"
+       id="text137">country</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(268.36,319)"
+       id="text139">rdf:type</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(119.485,205)"
+       id="text141">realm:PublicationZika</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(95.9223,242)"
+       id="text143">realm:PublicationChikungunya</text>
+    <rect
+       x="524.5"
+       y="123.5"
+       width="65"
+       height="25"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill2)"
+       id="rect145" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(535.843,141)"
+       id="text147">creator</text>
+    <path
+       d="M 0.128063,-0.307752 157.706,65.2643 157.45,65.8798 -0.128063,0.307752 Z M 157.884,61.3668 l 5.849,6.7665 -8.922,0.6196 z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,357.5,205.633)"
+       id="path149" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(414.193,171)"
+       id="text151">dcterms:creator</text>
+    <rect
+       x="456.5"
+       y="85.500099"
+       width="67"
+       height="23"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill3)"
+       id="rect153" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(478.927,101)"
+       id="text155">title</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(379.693,146)"
+       id="text157">dcterms:title</text>
+    <path
+       d="M 0.198593,-0.267716 110.778,81.7604 110.38,82.2959 -0.198593,0.267716 Z M 111.891,78.0212 115.933,86 107.125,84.4464 Z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,345.5,197.5)"
+       id="path159" />
+    <rect
+       x="521.5"
+       y="255.5"
+       width="85"
+       height="26"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill4)"
+       id="rect161" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(532.535,273)"
+       id="text163">homepage</text>
+    <path
+       d="m 265.5,214 c 0,-11.874 22.834,-21.5 51,-21.5 28.167,0 51,9.626 51,21.5 0,11.874 -22.833,21.5 -51,21.5 -28.166,0 -51,-9.626 -51,-21.5 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill5)"
+       fill-rule="evenodd"
+       id="path165" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(297.176,219)"
+       id="text167">:News</text>
+    <path
+       d="m 352.541,229.169 205.37,25.234 -0.081,0.661 -205.371,-25.233 z m 204.494,21.432 7.452,4.946 -8.428,2.994 z"
+       fill="#4472c4"
+       id="path169" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(469.402,248)"
+       id="text171">foaf:homepage</text>
+    <rect
+       x="366.5"
+       y="55.500099"
+       width="67"
+       height="24"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill6)"
+       id="rect173" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(386.76,72)"
+       id="text175">date</text>
+    <path
+       d="M 0.300247,-0.144786 53.4712,110.117 52.8707,110.406 -0.300247,0.144786 Z M 56.1948,107.323 l -0.1281,8.944 -7.0779,-5.469 z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,328.5,194.767)"
+       id="path177" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(316.36,166)"
+       id="text179">dcterms:date</text>
+    <rect
+       x="178.5"
+       y="298.5"
+       width="62"
+       height="24"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill7)"
+       id="rect181" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(198.26,315)"
+       id="text183">text</text>
+    <path
+       d="m 27.5001,278.5 c 0,-17.121 31.5639,-31 70.5,-31 38.9359,0 70.4999,13.879 70.4999,31 0,17.121 -31.564,31 -70.4999,31 -38.9361,0 -70.5,-13.879 -70.5,-31 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill8)"
+       fill-rule="evenodd"
+       id="path185" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(85.7839,275)"
+       id="text187">dbr:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(58.5306,291)"
+       id="text189">Chikungunya</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(232.693,266)"
+       id="text191">shema:text</text>
+    <rect
+       x="528.5"
+       y="182.5"
+       width="77"
+       height="27"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill9)"
+       id="rect193" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(539.426,200)"
+       id="text195">language</text>
+    <path
+       d="M 0.0416088,-0.330726 151.602,18.7371 151.519,19.3986 -0.0416088,0.330726 Z M 150.737,14.9327 l 7.438,4.9674 -8.437,2.9701 z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,367.5,214.4)"
+       id="path197" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(403.86,207)"
+       id="text199">dcterms:language</text>
+    <rect
+       x="382.5"
+       y="331.5"
+       width="41"
+       height="29"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill10)"
+       id="rect201" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(398.926,351)"
+       id="text203">0</text>
+    <rect
+       x="452.5"
+       y="266.5"
+       width="42"
+       height="29"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill11)"
+       id="rect205" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(469.426,285)"
+       id="text207">0</text>
+    <path
+       d="m 323.779,235.317 58.678,89.492 -0.558,0.365 -58.678,-89.491 z m 61.013,86.366 1.041,8.884 -7.731,-4.497 z"
+       fill="#4472c4"
+       id="path209" />
+    <path
+       d="m 339.632,232.194 107.207,46.031 -0.263,0.613 -107.207,-46.032 z m 107.428,42.136 5.773,6.832 -8.929,0.519 z"
+       fill="#4472c4"
+       id="path211" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(306.693,291)"
+       id="text213">realm:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(343.693,291)"
+       id="text215">facebookCount</text>
+    <path
+       d="m 60.5001,101 c 0,-17.9492 33.1309,-32.4999 73.9999,-32.4999 40.869,0 74,14.5507 74,32.4999 0,17.949 -33.131,32.5 -74,32.5 -40.869,0 -73.9999,-14.551 -73.9999,-32.5 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill12)"
+       fill-rule="evenodd"
+       id="path217" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(122.676,98)"
+       id="text219">dbr:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(93.1764,114)"
+       id="text221">Dengue_virus</text>
+    <path
+       d="m 113.537,197.169 144.499,16.095 -0.074,0.663 -144.499,-16.096 z m 143.58,12.303 7.508,4.861 -8.394,3.09 z"
+       fill="#4472c4"
+       id="path223" />
+    <path
+       d="M 0.116608,-0.312272 104.426,38.639 104.193,39.2635 -0.116608,0.312272 Z M 104.46,34.7376 l 6.095,6.5459 -8.894,0.9486 z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,162.5,264.784)"
+       id="path225" />
+    <path
+       d="M 0.22817,-0.243001 66.3682,61.8603 65.9118,62.3463 -0.22817,0.243001 Z M 67.906,58.2746 71,66.6667 62.4299,64.1066 Z"
+       fill="#4472c4"
+       transform="matrix(-1,0,0,1,288.5,232.5)"
+       id="path227" />
+    <path
+       d="M 0.332742,-0.0198526 4.66902,72.6586 4.00354,72.6983 -0.332742,0.0198526 Z M 8.24977,71.1093 4.73333,79.3333 0.26397,71.5858 Z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,310.5,191.833)"
+       id="path229" />
+    <path
+       d="m 262.5,94.0001 c 0,-10.2173 22.834,-18.5 51,-18.5 28.167,0 51,8.2827 51,18.5 0,10.2169 -22.833,18.4999 -51,18.4999 -28.166,0 -51,-8.283 -51,-18.4999 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill13)"
+       fill-rule="evenodd"
+       id="path231" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(288.176,99)"
+       id="text233">:Country</text>
+    <path
+       d="m 170.5,33.0001 c 0,-16.8447 21.49,-30.50005 48,-30.50005 26.51,0 48,13.65535 48,30.50005 0,16.8446 -21.49,30.5 -48,30.5 -26.51,0 -48,-13.6554 -48,-30.5 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill14)"
+       fill-rule="evenodd"
+       id="path235" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(205.423,30)"
+       id="text237">dbo:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(195.01,46)"
+       id="text239">Country</text>
+    <path
+       d="m 314.405,75.4579 -49.243,-27.423 0.325,-0.5825 49.242,27.4231 z M 264.543,51.887 259.5,44.5001 l 8.935,0.3976 z"
+       fill="#4472c4"
+       id="path241" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(274.36,66)"
+       id="text243">rdf:type</text>
+  </g>
+</svg>
