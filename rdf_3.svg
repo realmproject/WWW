@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="825"
+   height="495"
+   overflow="hidden"
+   version="1.1"
+   id="svg413"
+   sodipodi:docname="Slide4.SVG"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata417">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     id="namedview415"
+     showgrid="false"
+     inkscape:zoom="0.66944444"
+     inkscape:cx="722.60581"
+     inkscape:cy="360"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg413" />
+  <defs
+     id="defs177">
+    <linearGradient
+       x1="525"
+       y1="122.5"
+       x2="525"
+       y2="186.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill0">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop2" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       x1="534.5"
+       y1="5.5000501"
+       x2="534.5"
+       y2="64.500099"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill1">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop9" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       x1="365.5"
+       y1="4.5000501"
+       x2="365.5"
+       y2="67.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill2">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop16" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop18" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       x1="332.5"
+       y1="375.5"
+       x2="332.5"
+       y2="398.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill3">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop23" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop25" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop27" />
+    </linearGradient>
+    <linearGradient
+       x1="124"
+       y1="199.5"
+       x2="124"
+       y2="222.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill4">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop30" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop32" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop34" />
+    </linearGradient>
+    <linearGradient
+       x1="281.5"
+       y1="186.5"
+       x2="281.5"
+       y2="211.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill5">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop37" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop39" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop41" />
+    </linearGradient>
+    <linearGradient
+       x1="671.5"
+       y1="49.500099"
+       x2="671.5"
+       y2="74.500099"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill6">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop44" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop46" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop48" />
+    </linearGradient>
+    <linearGradient
+       x1="516.5"
+       y1="239.5"
+       x2="516.5"
+       y2="263.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill7">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop51" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop53" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop55" />
+    </linearGradient>
+    <linearGradient
+       x1="739"
+       y1="405.5"
+       x2="739"
+       y2="429.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill8">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop58" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop60" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop62" />
+    </linearGradient>
+    <linearGradient
+       x1="507.5"
+       y1="458.5"
+       x2="507.5"
+       y2="483.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill9">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop65" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop67" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop69" />
+    </linearGradient>
+    <linearGradient
+       x1="736"
+       y1="255.5"
+       x2="736"
+       y2="282.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill10">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop72" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop74" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop76" />
+    </linearGradient>
+    <linearGradient
+       x1="692"
+       y1="457.5"
+       x2="692"
+       y2="482.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill11">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop79" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop81" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop83" />
+    </linearGradient>
+    <linearGradient
+       x1="246"
+       y1="94.500099"
+       x2="246"
+       y2="154.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill12">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop86" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop88" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop90" />
+    </linearGradient>
+    <linearGradient
+       x1="737.5"
+       y1="147.5"
+       x2="737.5"
+       y2="211.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill13">
+      <stop
+         offset="0"
+         stop-color="#A1C7DF"
+         id="stop93" />
+      <stop
+         offset="0.5"
+         stop-color="#94BED7"
+         id="stop95" />
+      <stop
+         offset="1"
+         stop-color="#80B6D5"
+         id="stop97" />
+    </linearGradient>
+    <linearGradient
+       x1="386.5"
+       y1="302.5"
+       x2="386.5"
+       y2="328.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill14">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop100" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop102" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop104" />
+    </linearGradient>
+    <linearGradient
+       x1="241.5"
+       y1="16.500099"
+       x2="241.5"
+       y2="41.500099"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill15">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop107" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop109" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop111" />
+    </linearGradient>
+    <linearGradient
+       x1="188.5"
+       y1="378.5"
+       x2="188.5"
+       y2="405.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill16">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop114" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop116" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop118" />
+    </linearGradient>
+    <linearGradient
+       x1="767"
+       y1="302.5"
+       x2="767"
+       y2="327.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill17">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop121" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop123" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop125" />
+    </linearGradient>
+    <linearGradient
+       x1="760.5"
+       y1="356.5"
+       x2="760.5"
+       y2="381.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill18">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop128" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop130" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop132" />
+    </linearGradient>
+    <linearGradient
+       x1="465"
+       y1="414.5"
+       x2="465"
+       y2="441.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill19">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop135" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop137" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop139" />
+    </linearGradient>
+    <linearGradient
+       x1="584"
+       y1="470.5"
+       x2="584"
+       y2="497.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill20">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop142" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop144" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop146" />
+    </linearGradient>
+    <linearGradient
+       x1="398"
+       y1="384.5"
+       x2="398"
+       y2="407.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill21">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop149" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop151" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop153" />
+    </linearGradient>
+    <linearGradient
+       x1="95.000099"
+       y1="36.500099"
+       x2="95.000099"
+       y2="62.500099"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill22">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop156" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop158" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop160" />
+    </linearGradient>
+    <linearGradient
+       x1="71.500099"
+       y1="162.5"
+       x2="71.500099"
+       y2="186.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill23">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop163" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop165" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop167" />
+    </linearGradient>
+    <linearGradient
+       x1="266.5"
+       y1="457.5"
+       x2="266.5"
+       y2="481.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="fill24">
+      <stop
+         offset="0"
+         stop-color="#C1D4D9"
+         id="stop170" />
+      <stop
+         offset="0.5"
+         stop-color="#B6CBD1"
+         id="stop172" />
+      <stop
+         offset="1"
+         stop-color="#AAC5CC"
+         id="stop174" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g411">
+    <rect
+       x="0"
+       y="0"
+       width="1280"
+       height="720"
+       fill="#ffffff"
+       id="rect179" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(190.065,71)"
+       id="text181">ebucore:filename</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(629.732,252)"
+       id="text183">rdf:type</text>
+    <path
+       d="m 444.5,154.5 c 0,-17.673 36.041,-32 80.5,-32 44.459,0 80.5,14.327 80.5,32 0,17.673 -36.041,32 -80.5,32 -44.459,0 -80.5,-14.327 -80.5,-32 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill0)"
+       fill-rule="evenodd"
+       id="path185" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(488.798,159)"
+       id="text187">:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(492.465,159)"
+       id="text189">Researcher</text>
+    <path
+       d="m 484.5,35 c 0,-16.2924 22.386,-29.49995 50,-29.49995 27.614,0 50,13.20755 50,29.49995 0,16.2924 -22.386,29.5 -50,29.5 -27.614,0 -50,-13.2076 -50,-29.5 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill1)"
+       fill-rule="evenodd"
+       id="path191" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(521.465,32)"
+       id="text193">foaf:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(513.298,48)"
+       id="text195">Person</text>
+    <path
+       d="m 310.5,36.0001 c 0,-17.397 24.624,-31.50005 55,-31.50005 30.376,0 55,14.10305 55,31.50005 0,17.3969 -24.624,31.5 -55,31.5 -30.376,0 -55,-14.1031 -55,-31.5 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill2)"
+       fill-rule="evenodd"
+       id="path197" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(348.885,33)"
+       id="text199">dcite:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(339.632,49)"
+       id="text201">identifier</text>
+    <path
+       d="m 300.561,127.172 138.378,25.615 -0.122,0.655 -138.378,-25.614 z m 137.734,21.767 7.138,5.389 -8.594,2.477 z"
+       fill="#4472c4"
+       id="path203" />
+    <path
+       d="M 0.331623,-0.0337244 5.65713,52.3338 4.99389,52.4012 -0.331623,0.0337244 Z M 9.17009,50.6364 6,59 1.21114,51.4457 Z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,532.5,122.5)"
+       id="path205" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(512.898,101)"
+       id="text207">rdf:type</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(342.732,147)"
+       id="text209">cito:cites</text>
+    <path
+       d="M 0.158259,-0.293369 170.024,91.3416 169.708,91.9283 -0.158259,0.293369 Z M 170.592,87.4814 l 5.141,7.3186 -8.94,-0.2778 z"
+       fill="#4472c4"
+       transform="matrix(-1,0,0,1,478.233,180.5)"
+       id="path211" />
+    <path
+       d="m 554.83,184.45 17.34,115.075 -0.66,0.099 -17.34,-115.074 z m 20.767,113.21 -2.764,8.507 -5.147,-7.315 z"
+       fill="#4472c4"
+       id="path213" />
+    <rect
+       x="308.5"
+       y="375.5"
+       width="48"
+       height="23"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill3)"
+       id="rect215" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(327.931,392)"
+       id="text217">0</text>
+    <rect
+       x="94.500099"
+       y="199.5"
+       width="59"
+       height="23"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill4)"
+       id="rect219" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(119.965,216)"
+       id="text221">0</text>
+    <rect
+       x="256.5"
+       y="186.5"
+       width="50"
+       height="25"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill5)"
+       id="rect223" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(277.632,204)"
+       id="text225">0</text>
+    <rect
+       x="611.5"
+       y="49.500099"
+       width="120"
+       height="25"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill6)"
+       id="rect227" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(651.715,67)"
+       id="text229">NAME</text>
+    <path
+       d="M 0.332091,-0.0287542 4.49034,47.9961 3.82616,48.0536 -0.332091,0.0287542 Z M 8.02832,46.3514 4.73333,54.6667 0.0581422,47.0415 Z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,278.5,265.167)"
+       id="path231" />
+    <path
+       d="M 0.281139,-0.179086 39.5661,61.4926 39.0038,61.8508 -0.281139,0.179086 Z M 41.9423,58.3981 l 0.9244,8.8964 -7.6718,-4.5983 z"
+       fill="#4472c4"
+       transform="matrix(-1,0,0,1,244.367,311.5)"
+       id="path233" />
+    <path
+       d="m 278.75,315.279 48.017,54.301 -0.499,0.441 -48.018,-54.3 z m 49.88,50.873 2.303,8.643 -8.296,-3.344 z"
+       fill="#4472c4"
+       id="path235" />
+    <rect
+       x="495.5"
+       y="239.5"
+       width="42"
+       height="24"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill7)"
+       id="rect237" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(512.403,256)"
+       id="text239">0</text>
+    <rect
+       x="716.5"
+       y="405.5"
+       width="45"
+       height="24"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill8)"
+       id="rect241" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(735.048,422)"
+       id="text243">0</text>
+    <rect
+       x="485.5"
+       y="458.5"
+       width="44"
+       height="25"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill9)"
+       id="rect245" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(503.332,475)"
+       id="text247">0</text>
+    <rect
+       x="715.5"
+       y="255.5"
+       width="41"
+       height="27"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill10)"
+       id="rect249" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(731.964,273)"
+       id="text251">0</text>
+    <rect
+       x="669.5"
+       y="457.5"
+       width="45"
+       height="25"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill11)"
+       id="rect253" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(687.715,475)"
+       id="text255">0</text>
+    <path
+       d="m 555.707,310.112 -35.142,-41.318 0.508,-0.432 35.142,41.318 z m -37.071,-37.926 -2.136,-8.686 8.23,3.502 z"
+       fill="#4472c4"
+       id="path257" />
+    <path
+       d="m 612.562,347.173 124.45,23.623 -0.124,0.655 -124.45,-23.623 z m 123.824,19.772 7.114,5.422 -8.606,2.438 z"
+       fill="#4472c4"
+       id="path259" />
+    <path
+       d="M 0.294022,-0.157043 50.6515,94.124 50.0634,94.4381 -0.294022,0.157043 Z M 53.2575,91.2204 53.4983,100.161 46.201,94.9895 Z"
+       fill="#4472c4"
+       transform="matrix(-1,0,0,1,560.998,358.5)"
+       id="path261" />
+    <path
+       d="m 600.668,352.212 107.438,62.514 -0.336,0.576 -107.438,-62.514 z m 108.129,58.674 4.903,7.481 -8.926,-0.566 z"
+       fill="#4472c4"
+       id="path263" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(330.232,229)"
+       id="text265">realm:hasSocialImpact</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(491.732,218)"
+       id="text267">realm:hasAcademicImpact</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(271.699,347)"
+       id="text269">realm:gplusCitations</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(55.7983,249)"
+       id="text271">realm:facebookCitations</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(202.078,252)"
+       id="text273">realm:socialMediaCitations</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(143.898,363)"
+       id="text275">realm:spellingsUsed</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(392.917,286)"
+       id="text277">realm:numberOfPublications</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(620.732,369)"
+       id="text279">realm:betweenness</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(534.565,449)"
+       id="text281">realm:closenessPos</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(495.747,409)"
+       id="text283">realm:degree</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(625.565,293)"
+       id="text285">realm:pagerank</text>
+    <path
+       d="m 186.5,124.5 c 0,-16.568 26.639,-29.9999 59.5,-29.9999 32.861,0 59.5,13.4319 59.5,29.9999 0,16.569 -26.639,30 -59.5,30 -32.861,0 -59.5,-13.431 -59.5,-30 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill12)"
+       fill-rule="evenodd"
+       id="path287" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(220.298,129)"
+       id="text289">:Session</text>
+    <path
+       d="M 0.234184,-0.23721 39.6772,38.7026 39.2088,39.1771 -0.234184,0.23721 Z M 41.3044,35.1566 l 2.8828,8.4669 -8.5033,-2.7739 z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,288.5,103.124)"
+       id="path291" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(281.065,92)"
+       id="text293">rdf:type</text>
+    <path
+       d="m 4.50005,313.5 c 0,-17.121 30.66845,-31 68.50005,-31 37.8319,0 68.4999,13.879 68.4999,31 0,17.121 -30.668,31 -68.4999,31 -37.8316,0 -68.50005,-13.879 -68.50005,-31 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#97c0d9"
+       fill-rule="evenodd"
+       id="path295" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(54.4648,310)"
+       id="text297">realm:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(34.9648,326)"
+       id="text299">SocialImpact</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(158.065,294)"
+       id="text301">rdf:type</text>
+    <path
+       d="M 0.025853,-0.332329 84.646,6.25056 84.5943,6.91522 -0.025853,0.332329 Z M 83.601,2.49152 91.2667,7.09995 82.9805,10.4674 Z"
+       fill="#4472c4"
+       transform="matrix(-1,0,0,1,225.767,291.5)"
+       id="path303" />
+    <path
+       d="m 653.5,179.5 c 0,-17.673 37.608,-32 84,-32 46.392,0 84,14.327 84,32 0,17.673 -37.608,32 -84,32 -46.392,0 -84,-14.327 -84,-32 z"
+       stroke="#3494ba"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill13)"
+       fill-rule="evenodd"
+       id="path305" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(718.468,176)"
+       id="text307">realm:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(687.882,192)"
+       id="text309">AcademicImpact</text>
+    <path
+       d="M 0.238408,-0.232965 95.4457,97.1988 94.9688,97.6647 -0.238408,0.232965 Z M 97.1364,93.6826 99.8667,102.2 91.4146,99.2738 Z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,600.5,309.7)"
+       id="path311" />
+    <rect
+       x="364.5"
+       y="302.5"
+       width="44"
+       height="26"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill14)"
+       id="rect313" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(382.241,320)"
+       id="text315">0</text>
+    <path
+       d="m 576.833,358.479 6.73,104.381 -0.665,0.043 -6.731,-104.381 z m 10.303,102.815 -3.477,8.241 -4.506,-7.726 z"
+       fill="#4472c4"
+       id="path317" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(428.83,320)"
+       id="text319">realm:subnetwork</text>
+    <rect
+       x="201.5"
+       y="16.500099"
+       width="80"
+       height="25"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill15)"
+       id="rect321" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(212.598,34)"
+       id="text323">file_name</text>
+    <path
+       d="M 0.333332,-9.32439e-4 0.464604,46.9268 -0.20206,46.9287 -0.333332,9.32439e-4 Z M 4.12753,45.5833 0.149921,53.5944 -3.87244,45.6057 Z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,246.5,94.0945)"
+       id="path325" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(585.732,112)"
+       id="text327">foaf:name</text>
+    <path
+       d="M 0.24934,-0.221225 47.7582,53.3253 47.2595,53.7678 -0.24934,0.221225 Z M 49.616,49.8945 l 2.3173,8.6388 -8.3015,-3.3294 z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,589.5,134.033)"
+       id="path329" />
+    <path
+       d="M 0.154964,-0.295122 93.9192,48.9389 93.6093,49.5292 -0.154964,0.295122 Z M 94.4433,45.0727 l 5.2234,7.2606 -8.9425,-0.1776 z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,615.5,319.833)"
+       id="path331" />
+    <path
+       d="m 234.902,273.34 -102.406,-43.907 0.263,-0.612 102.406,43.906 z M 132.277,233.329 126.5,226.5 l 8.929,-0.524 z"
+       fill="#4472c4"
+       id="path333" />
+    <rect
+       x="122.5"
+       y="378.5"
+       width="132"
+       height="27"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill16)"
+       id="rect335" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(157.375,396)"
+       id="text337">Full</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(182.542,396)"
+       id="text339">Name</text>
+    <rect
+       x="746.5"
+       y="302.5"
+       width="41"
+       height="25"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill17)"
+       id="rect341" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(763.048,319)"
+       id="text343">0</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(624.732,337)"
+       id="text345">realm:pagerankPos</text>
+    <path
+       d="m 225.5,291 c 0,-14.635 19.252,-26.5 43,-26.5 23.748,0 43,11.865 43,26.5 0,14.636 -19.252,26.5 -43,26.5 -23.748,0 -43,-11.864 -43,-26.5 z"
+       stroke="#4472c4"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#97c0d9"
+       fill-rule="evenodd"
+       id="path347" />
+    <path
+       d="M 0.0595108,-0.327978 124.3,22.2152 124.181,22.8711 -0.0595108,0.327978 Z M 123.643,18.3693 l 7.157,5.364 -8.586,2.5075 z"
+       fill="#4472c4"
+       transform="matrix(1,0,0,-1,617.5,337.233)"
+       id="path349" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(442.03,385)"
+       id="text351">realm:degreePos</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(598.497,429)"
+       id="text353">realm:closeness</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(585.232,393)"
+       id="text355">realm:betweennessPos</text>
+    <rect
+       x="740.5"
+       y="356.5"
+       width="40"
+       height="25"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill18)"
+       id="rect357" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(756.449,373)"
+       id="text359">0</text>
+    <rect
+       x="438.5"
+       y="414.5"
+       width="53"
+       height="27"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill19)"
+       id="rect361" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(460.686,433)"
+       id="text363">0</text>
+    <rect
+       x="562.5"
+       y="470.5"
+       width="43"
+       height="27"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill20)"
+       id="rect365" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(579.965,488)"
+       id="text367">0</text>
+    <path
+       d="M 0.219077,-0.25123 68.1125,58.953 67.6743,59.4555 -0.219077,0.25123 Z M 69.5174,55.3132 72.918,63.5858 64.2596,61.3427 Z"
+       fill="#4472c4"
+       transform="matrix(-1,0,0,1,546.418,351.5)"
+       id="path369" />
+    <path
+       d="m 587.742,358.271 88.877,93.631 -0.484,0.459 -88.877,-93.631 z m 90.618,90.14 2.607,8.556 -8.409,-3.049 z"
+       fill="#4472c4"
+       id="path371" />
+    <path
+       d="M 0.118295,-0.311637 129.867,48.9401 129.63,49.5634 -0.118295,0.311637 Z M 129.922,45.0389 l 6.059,6.5787 -8.899,0.9006 z"
+       fill="#4472c4"
+       transform="matrix(-1,0,0,1,533.481,332.5)"
+       id="path373" />
+    <path
+       d="m 537.532,322.093 -121.389,-5.934 0.032,-0.666 121.39,5.934 z m -120.237,-2.207 -7.795,-4.386 8.186,-3.605 z"
+       fill="#4472c4"
+       id="path375" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(393.858,362)"
+       id="text377">realm:academicScore</text>
+    <rect
+       x="375.5"
+       y="384.5"
+       width="45"
+       height="23"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill21)"
+       id="rect379" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(393.749,401)"
+       id="text381">0</text>
+    <rect
+       x="78.500099"
+       y="36.500099"
+       width="33"
+       height="26"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill22)"
+       id="rect383" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(90.9648,54)"
+       id="text385">0</text>
+    <rect
+       x="48.500099"
+       y="162.5"
+       width="46"
+       height="24"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill23)"
+       id="rect387" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(67.5482,179)"
+       id="text389">0</text>
+    <path
+       d="M 0.128484,-0.307576 87.977,36.3894 87.72,37.0046 -0.128484,0.307576 Z M 88.16,32.4921 94,39.2667 85.0764,39.874 Z"
+       fill="#4472c4"
+       transform="matrix(-1,0,0,1,189.5,127.5)"
+       id="path391" />
+    <path
+       d="m 203.893,102.882 -86.717,-47.8683 0.322,-0.5836 86.717,47.8679 z M 116.571,58.8681 111.5,51.5 l 8.937,0.3643 z"
+       fill="#4472c4"
+       id="path393" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(19.8982,155)"
+       id="text395">realm:</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(60.2315,155)"
+       id="text397">hasNumberOfElements</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(32.3815,92)"
+       id="text399">realm:hasNumberOfPublications</text>
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(199.281,438)"
+       id="text401">realm:altmetricScore</text>
+    <path
+       d="m 268.833,317.5 v 134.061 h -0.666 V 317.5 Z m 3.667,132.728 -4,8 -4,-8 z"
+       fill="#4472c4"
+       id="path403" />
+    <rect
+       x="230.5"
+       y="457.5"
+       width="72"
+       height="24"
+       stroke="#84acb6"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="url(#fill24)"
+       id="rect405" />
+    <text
+       font-family="Arial, Arial_MSFontService, sans-serif"
+       font-weight="400"
+       font-size="13px"
+       transform="translate(262.048,474)"
+       id="text407">0</text>
+    <path
+       d="m 533.5,332.5 c 0,-14.359 19.252,-26 43,-26 23.748,0 43,11.641 43,26 0,14.359 -19.252,26 -43,26 -23.748,0 -43,-11.641 -43,-26 z"
+       stroke="#4472c4"
+       stroke-width="0.666667"
+       stroke-miterlimit="8"
+       fill="#97c0d9"
+       fill-rule="evenodd"
+       id="path409" />
+  </g>
+</svg>
